@@ -20,7 +20,12 @@ I spend my time exploring how artificial intelligence is evolving and building i
   <a href="https://www.kaggle.com/romana_666">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
- 
+
+</p>
+
+##
+<p align="centre">
+  <img src="https://komarev.com/ghpvc/?username=romana666&label=Profile%20Views&color=0e75b6&style=flat" alt="romana666" />
 </p>
 
 ##
