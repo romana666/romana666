@@ -1,4 +1,4 @@
-## Hi! I'm Romana 👋
+## Hi! I'm Romana.
 
 I spend my time exploring how artificial intelligence is evolving and building intelligent systems.
 
