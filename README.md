@@ -6,10 +6,10 @@ I spend my time exploring how artificial intelligence is evolving and building i
 - 📄 **Publication:** Co-author of a Springer conference paper.
 - 🚀 **Achievement:** NASA International Space Apps Challenge Global Nominee and Regional 1st Runner-Up.
 - 💻 **Projects:** Building AI and machine learning applications and participating in hackathons.
-- 📚 **Currently Learning:** Machine Learning, Deep Learning, and Large Language Models (LLMs).
+- 📚 **Currently Learning:** Machine Learning, Deep Learning, and Large Language Models (LLMs) and AI tools.
 - 📫 **Reach me:** romanakhanom.02@gmail.com
 
-## 🛠️ Tech Stack
+
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45"/>
@@ -22,3 +22,11 @@ I spend my time exploring how artificial intelligence is evolving and building i
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45"/>
 </p>
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=romana666&show_icons=true&theme=tokyonight)
+
+![](https://streak-stats.demolab.com?user=romana666&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=romana666&layout=compact&theme=tokyonight)
