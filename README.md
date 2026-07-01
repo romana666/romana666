@@ -36,7 +36,7 @@ I spend my time exploring how artificial intelligence is evolving and building i
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45"/>
 </p>
 
-
+##
 
 ## 📊 GitHub Stats
 
