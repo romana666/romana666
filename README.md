@@ -9,7 +9,7 @@ I spend my time exploring how artificial intelligence is evolving and building i
 - 📚 **Currently Learning:** Machine Learning, Deep Learning, and Large Language Models (LLMs) and AI tools.
 - 📫 **Reach me:** romanakhanom.02@gmail.com
 
-
+##
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45"/>
@@ -23,10 +23,11 @@ I spend my time exploring how artificial intelligence is evolving and building i
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45"/>
 </p>
 
+
+
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=romana666&show_icons=true&theme=tokyonight)
-
-![](https://streak-stats.demolab.com?user=romana666&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=romana666&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=romana666&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=romana666&theme=tokyonight" height="150"/>
+</p>
