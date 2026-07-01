@@ -23,10 +23,13 @@ I spend my time exploring how artificial intelligence is evolving and building i
 
 </p>
 
+<!--
+
 ##
-<p align="centre">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=romana666&label=Profile%20Views&color=0e75b6&style=flat" alt="romana666" />
 </p>
+-->
 
 ##
 
