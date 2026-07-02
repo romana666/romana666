@@ -54,3 +54,5 @@ I spend my time exploring how artificial intelligence is evolving and building i
   <img src="https://streak-stats.demolab.com?user=romana666&theme=tokyonight" height="150"/>
 </p>
 
+##
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true)
