@@ -55,4 +55,4 @@ I spend my time exploring how artificial intelligence is evolving and building i
 </p>
 
 ##
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romana-khanom&layout=compact&theme=tokyonight)
