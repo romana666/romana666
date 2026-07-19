@@ -54,7 +54,10 @@ I spend my time exploring how artificial intelligence is evolving and building i
   <img src="https://streak-stats.demolab.com?user=romana666&theme=tokyonight" height="150"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=romana666&theme=tokyonight" />
-</p>
+## 📊 GitHub Stats
 
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romana666&layout=compact&theme=tokyonight" height="170"/>
+</p>
