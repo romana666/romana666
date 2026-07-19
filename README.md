@@ -6,7 +6,7 @@ I spend my time exploring how artificial intelligence is evolving and building i
 - 📄 **Publication:** Co-author of a Springer conference paper.
 - 🚀 **Achievement:** NASA International Space Apps Challenge Global Nominee and Regional 1st Runner-Up.
 - 💻 **Projects:** Building AI and machine learning applications and participating in hackathons.
-- 📚 **Currently Learning:** Machine Learning, Deep Learning, and Large Language Models (LLMs) and AI tools.
+- 📚 **Currently Learning:** Machine Learning, Deep Learning, and Large Language Models (LLMs).
 
 
 ##
