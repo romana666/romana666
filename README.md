@@ -53,5 +53,3 @@ I spend my time exploring how artificial intelligence is evolving and building i
 
 
 
-##
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romana666&layout=compact&theme=tokyonight&cache_seconds=1800" />
