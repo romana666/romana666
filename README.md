@@ -1,8 +1,8 @@
 ## Hi! I'm Romana.
 
-I spend my time exploring how artificial intelligence is evolving and building intelligent systems.
+I spend my time exploring the evolving domains of artificial intelligence
 
-- 🔬 **Interest:**  Machine learning, Deep learning include computer vision and AI-driven decision-making systems.
+- 🔬 **Interest:**  Machine learning, Deep learning including computer vision and AI-driven decision-making systems.
 - 📄 **Publication:** Co-author of  Springer conference paper.
 - 🚀 **Achievement:** NASA International Space Apps Challenge Global Nominee and Regional 1st Runner-Up.
 
